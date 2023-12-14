@@ -1,0 +1,14 @@
+<div id="header" align="center">
+    <img alt="Profile image" src="./img/image.jpg" width="100px" height="100px" />
+    <!-- IMAGE SOURCE: https://www.pixiv.net/artworks/109280721 -->
+</div>
+
+## About Me
+
+**NAME:** renoct1
+
+**HTHS[Hanlim Technical High School]** | Major in electronic engineering.
+
+## Contacts
+
+[![Github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/renoct1)
