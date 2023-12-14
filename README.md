@@ -6,9 +6,10 @@
 ## About Me
 
 **NAME:** renoct1
+**DESC:** A person who is interested in programming/development and web designing. Barely doing them though.
 
 **HTHS[Hanlim Technical High School]** | Electronic engineering student
 
-## Contacts
+## Medias
 
 [![Github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/renoct1)
