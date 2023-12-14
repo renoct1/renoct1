@@ -7,7 +7,7 @@
 
 **NAME:** renoct1
 
-**HTHS[Hanlim Technical High School]** | Major in electronic engineering.
+**HTHS[Hanlim Technical High School]** | Electronic engineering student
 
 ## Contacts
 
