@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img alt="Profile image" src="./img/image.jpg" width="100px" height="100px" />
+    <img alt="Profile image" src="./img/image.jpg" width="150px" height="150px" />
     <!-- IMAGE SOURCE: https://www.pixiv.net/artworks/109280721 -->
 </div>
 
