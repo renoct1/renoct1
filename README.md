@@ -11,6 +11,6 @@
 
 **HTHS[Hanlim Technical High School]** | Electronic engineering student
 
-## Medias
+## Links
 
 [![Github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/renoct1)
