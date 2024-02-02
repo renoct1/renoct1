@@ -7,7 +7,7 @@
 
 **NAME:** renoct1
 <br/>
-**DESC:** A person who is interested in programming/development and web designing. Barely doing them though.
+**DESC:** A person who is interested in programming, web development and web design. Barely doing them though.
 
 **HTHS[Hallim Technical High School]** | Electronic engineering student
 
