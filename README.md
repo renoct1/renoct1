@@ -9,7 +9,7 @@
 <br/>
 **DESC:** A person who is interested in programming, web development and web design. Barely doing them though.
 
-**HTHS** | Electronic engineering student
+**HTHS** | Electronic Engineering Student
 
 ## Links
 
