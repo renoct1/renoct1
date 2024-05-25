@@ -1,11 +1,6 @@
 # Information
 <br/>
 <div id="header" align="center">
-    <style>
-        img {
-            border-radius: 50%
-        }
-    </style>
     <img alt="Profile image" src="./img/image.png" width="200px" height="200px" />
     <!-- IMAGE SOURCE: https://www.pixiv.net/artworks/109280721 -->
 </div>
