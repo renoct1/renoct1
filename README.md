@@ -1,7 +1,7 @@
 # Information
 <br/>
 <div id="header" align="center">
-    <img alt="Profile image" src="./img/image.png" width="200px" height="200px" style="border-radius: 50%" />
+    <img alt="Profile image" src="./img/profile.png" width="200px" height="200px" style="border-radius: 50%" />
     <!-- IMAGE SOURCE: https://www.pixiv.net/artworks/109280721 -->
 </div>
 
@@ -9,7 +9,7 @@
 
 **NAME:** renoct1
 <br/>
-**DESC:** A random person who is interested in programming and development.
+**DESC:** A random person who is interested in programming.
 
 **> Electronic Engineering Student** <br/>
 
