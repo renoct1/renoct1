@@ -15,7 +15,7 @@
 
 ## Plans / On-going activity
 
-**Currently working for school programming club (website)**
+**Currently working on school programming club (website)**
 
 ## Links
 
