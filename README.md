@@ -13,9 +13,14 @@
 
 **> Electronic Engineering Student** <br/>
 
-## Plans / On-going activity
+## Plans / On-going activities
 
-**Currently working on school programming club (website)**
+### Plans
+- E&E Department website
+- Hackathon
+
+### Current activity
+- Reforming a team
 
 ## Links
 
