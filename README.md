@@ -2,7 +2,6 @@
 <br/>
 <div id="header" align="center">
     <img alt="Profile image" src="./img/profile.png" width="200px" height="200px" style="border-radius: 50%" />
-    <!-- IMAGE SOURCE: https://www.pixiv.net/artworks/109280721 -->
 </div>
 
 ## About Me
